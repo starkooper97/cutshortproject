@@ -1,0 +1,26 @@
+.stepper_head {
+  margin-top: 2%;
+  margin-left: 37%;
+  margin-right: 37%;
+  color: #1976d2;
+}
+
+.stepper_button {
+  /* text-align: center; */
+  margin-top: 1.7%;
+  padding: 15px 150px;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: #1976d2;
+  border-radius: 7px;
+  color: white;
+  border: none;
+}
+
+.boxx {
+  display: flex;
+
+  /* text-align: center; */
+  justify-content: center;
+  align-items: center;
+}

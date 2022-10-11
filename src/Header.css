@@ -1,0 +1,10 @@
+.header {
+  /* position: relative; */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.header_heading {
+  margin-left: 47%;
+}

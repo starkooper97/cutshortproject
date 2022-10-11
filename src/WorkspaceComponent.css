@@ -1,0 +1,43 @@
+.pageone_heading {
+  text-align: center;
+}
+
+.pageone_para {
+  text-align: center;
+  /* margin-left: 39%; */
+  color: rgba(128, 128, 128, 0.753);
+  margin-bottom: 2.7%;
+  margin-top: -1%;
+}
+
+.pageone_form {
+  margin-left: 39%;
+}
+
+.pageone_form > input {
+  /* text-align: center; */
+  padding: 11px;
+  margin-top: 5px;
+  border: 0.5px solid rgba(0, 0, 0, 0.06);
+}
+
+.second_input {
+  display: inline-block;
+  padding: 10px;
+  color: rgba(128, 128, 128, 0.781);
+  border-right: none;
+  background-color: rgba(211, 211, 211, 0.211);
+}
+
+::placeholder {
+  color: rgb(211, 199, 199);
+  opacity: 1; /* Firefox */
+}
+
+.second {
+  border: 0.5px solid rgba(0, 0, 0, 0.06);
+}
+
+.blur {
+  color: lightgray;
+}

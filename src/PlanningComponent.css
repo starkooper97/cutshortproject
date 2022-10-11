@@ -1,0 +1,121 @@
+.pagethree {
+  text-align: center;
+}
+
+.pagethree_para {
+  color: rgba(128, 128, 128, 0.753);
+  margin-bottom: 2.7%;
+  margin-top: -1%;
+}
+
+.pagetwo_form > input {
+  padding: 11px;
+  border-radius: 7px;
+  border: 0.5px solid rgba(0, 0, 0, 0.06);
+}
+
+.second_input {
+  display: inline-block;
+  color: rgba(128, 128, 128, 0.781);
+  border-right: none;
+  background-color: rgba(211, 211, 211, 0.211);
+}
+
+::placeholder {
+  color: rgb(211, 199, 199);
+  opacity: 1; /* Firefox */
+}
+
+.second {
+  padding: 11px;
+  border-radius: 7px;
+  margin-top: 1px;
+  border: 0.5px solid rgba(0, 0, 0, 0.06);
+}
+
+.blur {
+  color: lightgray;
+}
+
+.main_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box1 {
+  position: relative;
+  padding: 80px;
+  margin-right: 1%;
+  border-radius: 7px;
+  /* background-color: blue; */
+  border: 2px solid rgba(211, 211, 211, 0.347);
+}
+
+.box2 {
+  position: relative;
+  padding: 80px;
+  margin-left: 1%;
+  border-radius: 7px;
+  /* background-color: bisque; */
+  border: 2px solid rgba(211, 211, 211, 0.347);
+}
+
+.box1:hover {
+  border: 2px solid #1976d2;
+}
+
+.box2:hover {
+  border: 2px solid #1976d2;
+}
+
+.box1_icon {
+  position: absolute;
+  top: 7%;
+  left: 10%;
+}
+
+.box2_icon {
+  position: absolute;
+  top: 7%;
+  left: 10%;
+  /* color: blue; */
+}
+
+.box1:hover {
+  color: #1976d2;
+}
+
+.box2:hover {
+  color: #1976d2;
+}
+
+.box1 > h3 {
+  position: absolute;
+  top: 19%;
+  left: 10%;
+  color: black;
+}
+
+.box1 > p {
+  position: absolute;
+  top: 43%;
+  left: 10%;
+  font-size: 14px;
+  color: gray;
+}
+
+.box2 > h3 {
+  position: absolute;
+  top: 19%;
+  left: 10%;
+  color: black;
+}
+
+.box2 > p {
+  position: absolute;
+  top: 43%;
+  left: 10%;
+  font-size: 14px;
+  color: gray;
+}
